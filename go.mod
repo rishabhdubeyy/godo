@@ -1,4 +1,4 @@
-module github.com/rishabhdubeyyy/godo
+module github.com/rishabhdubeyy/godo
 
 go 1.25.1
 
