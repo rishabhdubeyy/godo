@@ -1,4 +1,4 @@
-module github.com/rishabhdubeyyy/godo-cli
+module github.com/rishabhdubeyyy/godo
 
 go 1.25.1
 
